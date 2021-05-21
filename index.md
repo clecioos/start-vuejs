@@ -1,6 +1,6 @@
 ## Conheça o Vue Js
 
-You can use the [editor on GitHub](https://github.com/clecioos/start-vuejs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui você encontra a documentação do [Vue Js](https://br.vuejs.org) para tirar duvidas.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
